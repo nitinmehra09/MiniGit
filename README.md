@@ -1,6 +1,6 @@
 # 🚀 MiniGit - A Lightweight Git Implementation
 
-## 📝 Introduction
+# 📝 Introduction
 MiniGit is a streamlined version control system inspired by Git, written in Python. It serves as an educational tool for developers interested in understanding the fundamental mechanisms of Git, including repository initialization, object storage, tree creation, and commit management. MiniGit offers a simplified yet functional implementation to enhance learning and experimentation.
 
 ## 🔥 Key Features

@@ -126,4 +126,4 @@ python git.py commit-tree <tree-hash> -m "First commit"
 | `write-tree` | Save the directory structure |
 | `commit-tree <tree-hash> -m "message"` | Create a commit |
 
-This covers the **basic Git internals**. Would you like to add **branches, merges, or logs next?** 🚀
+This covers the **basic Git internals** 🚀
